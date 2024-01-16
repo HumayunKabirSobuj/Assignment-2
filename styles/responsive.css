@@ -205,6 +205,41 @@
         font-size: 1rem;
         font-weight: 700;
     }
+    .footer{
+       
+        padding:10px;
+        
+    }
+
+    .footer-title{
     
+        margin-bottom: 20px;
+        
+    }
+
+    .footer-icon{
+        
+        gap: 30px;
+        margin-bottom: 20px;
+    }
+    
+    .footer-end{
+
+        font-size: 0.875rem;
+        margin-top: 20px;
+    }
+
+    .footer-title h2{
+        
+        font-size: 1.25rem;
+        font-weight: 700;
+
+    }
+
+    .footer p{
+        
+        font-size: 0.875rem;
+        margin-bottom: 15px;
+    }
 
 }
