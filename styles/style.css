@@ -153,3 +153,49 @@ input {
 }
 
 /* popular section */
+
+.popular-section {
+    padding: 30px 130px;
+    margin: 0 auto;
+}
+
+.popular-section-left h2 {
+    color: #131318;
+    font-size: 2.5rem;
+    font-weight: 800;
+}
+
+.popular-section-left p {
+
+    color: rgba(19, 19, 24, 0.70);
+    font-size: 1rem;
+}
+
+.popular-section-left button {
+    border-radius: 8px;
+    background: #FF5400;
+    padding: 10px 25px;
+    color: #FFF;
+    font-weight: 800;
+    font-size: 1.25rem;
+}
+
+.popular-section img {
+    width: 500px;
+    height: 520px;
+    object-fit: cover;
+    box-sizing: border-box;
+    border-radius: 16px;
+}
+
+.popular-section {
+    display: flex;
+    gap: 30px;
+}
+
+.popular-section-left p {
+    margin-bottom: 20px;
+
+}
+
+/* popular section end */
