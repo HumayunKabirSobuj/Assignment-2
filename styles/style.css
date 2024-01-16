@@ -353,6 +353,9 @@ input {
 
 /* why chose us section end */
 
+
+
+
 /* newsletter section start */
 
 .newsletter{
@@ -518,3 +521,9 @@ input {
 }
 
 /* footer section end */
+
+
+
+.hide{
+    display: none;
+}
