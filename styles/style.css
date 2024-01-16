@@ -269,3 +269,82 @@ input {
 
 
 /* destination section end */
+
+/* why chose us section */
+
+.why-chose-us-section-heading {
+    text-align: center;
+
+}
+
+
+.why-chose-us-section-heading h2 {
+    color: #131318;
+    font-size: 2.5rem;
+    font-weight: 800;
+    margin-bottom: 20px;
+}
+
+.why-chose-us-section-heading p {
+
+    color: rgba(19, 19, 24, 0.70);
+    font-size: 1rem;
+    margin-bottom: 30px;
+}
+
+.card h3 {
+    color: #131318;
+    font-size: 1.5rem;
+    font-weight: 800;
+    margin-bottom: 30px;
+}
+
+.card p {
+    color: #5A5A5D;
+    font-size: 1rem;
+
+}
+
+.card img {
+    width: 40px;
+    height: 40px;
+    margin-bottom: 30px;
+
+}
+
+.card {
+    padding: 30px;
+    width: 573px;
+}
+
+.first-row-card {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.card1 {
+    border-radius: 16px;
+    border: 1px solid rgba(251, 181, 99, 0.20);
+    background: rgba(251, 181, 99, 0.05);
+}
+
+.card2 {
+    border-radius: 16px;
+    border: 1px solid rgba(41, 206, 246, 0.20);
+    background: rgba(41, 206, 246, 0.05);
+}
+
+.card3 {
+    border-radius: 16px;
+    border: 1px solid rgba(233, 68, 68, 0.20);
+    background: rgba(233, 68, 68, 0.05);
+}
+
+.second-row-card{
+    display: flex;
+    justify-content: center;
+}
+
+/* why chose us section end */
