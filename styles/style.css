@@ -152,6 +152,32 @@ input {
     color: white;
 }
 
+
+.tour-section{
+
+    padding: 30px 130px;
+    text-align: center;
+}
+
+.tour-section h2{
+    font-size: 2.5rem;
+    margin-bottom: 15px;
+    font-weight: 700;
+
+}
+
+.tour-section p{
+    font-size: 1.25rem;
+    color: #5A5A5D;
+   margin-bottom: 20px;
+}
+
+.the-img img{
+    box-sizing: border-box;
+    object-fit: cover;
+}
+
+
 /* popular section */
 
 .popular-section {

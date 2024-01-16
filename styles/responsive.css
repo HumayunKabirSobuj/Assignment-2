@@ -201,6 +201,27 @@
         
     }
 
+    .tour-section{
+        padding: 20px;
+    }
+
+    .tour-section h2{
+        font-size: 1.75rem;
+        margin-bottom: 10px;
+        
+    
+    }
+
+    .the-img img{
+        width: 100%;
+    }
+
+
+    /* *********** */
+    .tour-section p{
+       margin-bottom: 10px;
+    }
+
     .discount{
         font-size: 1rem;
         font-weight: 700;
