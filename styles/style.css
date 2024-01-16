@@ -461,3 +461,60 @@ input {
     top: 50%;
     left:45%;
 }
+
+/* newsletter section end */
+
+/* footer section start */
+
+.footer{
+    min-height: 40px;
+    background: rgba(19, 19, 24, 0.05);
+    padding: 40px 250px;
+    text-align: center;
+}
+
+.footer-title{
+    
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    
+}
+
+.footer-title h2{
+    color: #131318;
+    font-size: 2rem;
+    font-weight: 800;
+    margin-bottom: 15px;
+   
+}
+
+.footer-title h2 span{
+    color: #FF5400;
+}
+
+.footer p{
+    color: #5A5A5D;
+    font-weight: 400;
+    font-size: 1rem;
+    margin-bottom: 25px;
+}
+
+.footer-icon{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-bottom: 40px;
+}
+
+.footer-end{
+
+    color: #131318;
+    font-weight: 300;
+    font-size: 1rem;
+    margin-top: 40px;
+}
+
+/* footer section end */
